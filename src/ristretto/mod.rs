@@ -27,6 +27,7 @@ pub mod pedersen;
 pub mod ristretto_keys;
 pub mod ristretto_sig;
 pub mod serialize;
+pub mod utils;
 
 // Re-export
 pub use self::{
